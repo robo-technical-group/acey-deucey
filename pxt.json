@@ -1,0 +1,21 @@
+{
+    "name": "Acey Deucey",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v1.0.4",
+        "pxt-arcade-display-strings": "github:robo-technical-group/pxt-arcade-display-strings#v1.0.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ]
+}
