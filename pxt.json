@@ -1,5 +1,6 @@
 {
     "name": "Acey Deucey",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
