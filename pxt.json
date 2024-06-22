@@ -2,12 +2,18 @@
     "name": "acey-deucey",
     "version": "2.0.0",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v2.1.3",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.1"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testDependencies": {},
     "targetVersions": {
