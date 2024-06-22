@@ -1,6 +1,6 @@
 {
     "name": "acey-deucey",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "dependencies": {
         "device": "*",
         "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v2.1.3",
