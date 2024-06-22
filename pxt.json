@@ -3,7 +3,7 @@
     "version": "2.1.0",
     "dependencies": {
         "device": "*",
-        "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v2.1.3",
+        "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v3.0.0",
         "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.1"
     },
     "files": [
