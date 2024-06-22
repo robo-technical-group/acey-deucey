@@ -5,6 +5,7 @@
         "device": "*"
     },
     "files": [
+        "main.blocks",
         "main.ts",
         "README.md"
     ],
@@ -15,6 +16,5 @@
     },
     "supportedTargets": [
         "arcade"
-    ],
-    "preferredEditor": "tsprj"
+    ]
 }
